@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/blowfish"
+        android:title="@string/blowfish"/>
+    <item android:id="@+id/rsa"
+        android:title="@string/rsa"/>
+    <item android:id="@+id/twofish"
+        android:title="@string/twofish"/>
+    <item android:id="@+id/about"
+        android:title="@string/about"/>
+
+</menu>

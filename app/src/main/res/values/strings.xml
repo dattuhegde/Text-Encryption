@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Encry_Decry</string>
+    <string name="message">Message</string>
+    <string name="key">Key</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="your_text">Your text</string>
+    <string name="key_">Key</string>
+    <string name="encrypted_text">Encrypted Text</string>
+    <string name="text_encryption_decryption">Text Encryption Decryption</string>
+    <string name="blowfish">BlowFish</string>
+    <string name="rsa">RSA</string>
+    <string name="twofish">TwoFish</string>
+    <string name="about">About</string>
+    <string name="abt">Advanced Encryption Standard: AES Encryption Algorithm Guide Last Updated:August 7, 2022 This tutorial provides a complete comprehensive understanding of the Advanced Encryption Standard AES with the help of some figures and examples: In the world of electronic communication and technology, every process revolves around sending and receiving data and information through machines. To receive and send sensitive data, personal information, and sensitive data related to the military operation, national security, etc. there should be some secure means of communication. Here comes a picture of the encryption and decryption process. The Advanced Encryption Standard AES is the most widely used encryption method for securely encrypting data and processing further by using a secure connection. Here we will discuss the process of AES encryption and decryption in short with the help of some figures and examples. We have also answered some frequently asked queries regarding this topic. What You Will Learn: [hide] What is AES Encryption Operations Advanced Encryption Standard (AES) Encryption Process Decryption Process Where is the AES Algorithm Encryption Used Examples of AES Algorithm Usage Features of AES Algorithm How the Advanced Encryption Standard (AES) Works Attacks on AES Encryption Frequently Asked Questions Conclusion Recommended Reading What is AES Encryption Advanced Encryption Standard The Advanced Encryption Standard (AES) Encryption is explicit for the encryption of electronic information, and it was set up with the assistance of the U.S. (NIST) National Institute of Standards and Technology in 2001. AES is based on the Rijndael methodology of encryption using a block cipher. Rijndael is a group of codes with various keys and square blocks. For AES, NIST named three individuals from the Rijndael family, each with a square size of 128 pieces. The three different key lengths: 128, 192, and 256 are used for encryption.</string>
+</resources>
