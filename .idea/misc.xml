@@ -6,7 +6,8 @@
         <entry key="app/src/main/res/drawable/edit_background.xml" value="0.2005" />
         <entry key="app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2015" />
         <entry key="app/src/main/res/layout/about_app.xml" value="0.19270833333333334" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main_encryption.xml" value="0.2" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.19375" />
       </map>
     </option>
